@@ -97,6 +97,8 @@ Additionally, should a player or two have to leave the game midway, all TeamWiz 
 
 
 \*\***Include pictures of your storyboards here**\*\*
+![storyboards](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/2f66a7f5-b5a3-4696-a642-c871610ff75e)
+
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -129,6 +131,8 @@ If you run into technical issues with this tool, you can also use a light switch
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+
+https://youtu.be/ASheoEyk49Y
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
