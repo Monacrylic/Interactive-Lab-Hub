@@ -143,7 +143,8 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 
-![LeafSpeak-InProgress](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/967a20ab-abf4-4ee1-bbe6-4109bc960715)
+![buildInProgress](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/66b61f0f-2d52-4334-b7e4-820d4df61c0b)
+
 ![PlantSpeak](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/c7b0b178-9344-433c-98d9-163bdd76406c)
 
 
