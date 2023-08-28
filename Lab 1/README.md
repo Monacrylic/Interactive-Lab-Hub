@@ -138,6 +138,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 ## Part E. Costume the device
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![PlantSpeak](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/c7b0b178-9344-433c-98d9-163bdd76406c)
 
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
