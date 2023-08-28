@@ -154,6 +154,8 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+[![LeafSpeak Demo](https://img.youtube.com/vi/ASheoEyk49Y/0.jpg)](https://www.youtube.com/watch?v=ASheoEyk49Y)
+
 https://youtu.be/ASheoEyk49Y
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
