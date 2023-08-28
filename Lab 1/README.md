@@ -148,6 +148,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+https://youtu.be/ASheoEyk49Y
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
