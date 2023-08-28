@@ -125,7 +125,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+Tinkerbelle does what its made for! It would be amazing to have a feature that allows one to record and replay a sequence of colors!
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -150,6 +150,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+We wanted the device to look 'small' and 'self-contained'. We wouldn't want a garden to have too many visible digital elements shadwing the greenery. While the size of the phone is restricting, the two white covers make the device look capuslar. 
 
 ## Part F. Record
 
