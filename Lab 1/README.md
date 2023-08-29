@@ -104,6 +104,8 @@ Present your ideas to the other people in your breakout room (or in small groups
 
 \*\***Summarize feedback you got here.**\*\*
 
+People mostly liked all ideas, but CrispSense was the most attractive idea to groups as it is the most useful and applicable to everyone. Plant enthusiasts showed excitement about our idea, but they said it would be better if it could detect this on the plant itself instead of the soil.
+
 
 ## Part B. Act out the Interaction
 
@@ -111,8 +113,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+It looked better on paper for CrispSense to be putting the device in fruits, but it might be a bit huge for smaller things, so a smaller device will be needed.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+It would be a good idea to have TeamWiz to be wearable so teams can tell apart their teammates from opposite team.
 
 ## Part C. Prototype the device
 
