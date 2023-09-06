@@ -297,6 +297,7 @@ We prototyped the CrispSense interaction a software tool called reality composer
 ## Part E. Costume the device
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![IMG_3819](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/95855ae1-972c-48e5-9def-9da275ddee15)
 
 
 
