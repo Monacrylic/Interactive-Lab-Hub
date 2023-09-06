@@ -104,8 +104,8 @@ Present your ideas to the other people in your breakout room (or in small groups
 
 \*\***Summarize feedback you got here.**\*\*
 
-People mostly liked all ideas, but CrispSense was the most attractive idea to groups as it is the most useful and applicable to everyone. Plant enthusiasts showed excitement about our idea, but they said it would be better if it could detect this on the plant itself instead of the soil.
-
+1. Thomas Wallace Clear interaction, better colour to alert the person for over watering.
+If there are lots of plants around, we need a better way to analyzd multiple plants, like through an app.
 
 ## Part B. Act out the Interaction
 
@@ -183,9 +183,79 @@ You will be assigned three partners from another group. Go to their github pages
 
 ## Make it your own
 
-Do last week’s assignment again, but this time: 
-1) It doesn’t have to (just) use light, 
-2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code! 
-3) We will be grading with an emphasis on creativity. 
-
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+### <u>1. CrispSense (enhanced): AR powered food freshness label</u>
+
+<b>Setting:</b> The user opens a refrigerator in a kitchen to see what ingredients they have for cooking their next meal.
+
+<b>Players:</b> The refrigerator and the user
+
+<b>Activity:</b> The user opens the refrigerator and scans through the food through their phone camera. The user's phone automatically puts augmented reality labels on the food items that make it easy to tell apart fresh food from stale food, and those foods about to expire. 
+
+<b>Goals:</b> To easily tell apart good food from those about to expire for optimum usage of food resources.
+
+### <u>2. Fortune Teller Robot</u>
+
+<b>Setting:</b> Even though fortune-tellings are not real, people still seek them as either a way to comfort themselves or self-entertainment. The setting for this interaction will be when someone is seeking “inspiration” from a fortune-telling bot. 
+
+<b>Players:</b> The user, and a small bot. 
+
+<b>Activity:</b> The interaction starts when the user asks a question, the bot will respond by acting out the response or display a meaningful text. 
+
+<b>Goals:</b> To easily tell apart good food from those about to expire for optimum usage of food resources.
+
+### <u>3. PanicParrot: The emergency escape guide</u>
+
+<b>Setting:</b> The interaction happens during an (fire) emergency. The user is trapped and is trying to escape.
+
+<b>Players:</b> The fire alarm, the Panic Parrot Device, and the person who is trying to escape.
+
+<b>Activity:</b> The device will sound the alarm and guide the user away from danger. As the user moves away from the source of fire, the alarm will gradually decrease to show signs of safety.
+
+<b>Goals:</b> The goal of this interaction is to make the user aware of its surrounding dangers in an intuitive, easy to understand way. While providing clear guidance to safety.
+
+### <u>4. </u>
+
+<b>Setting:</b> The 
+
+<b>Players:</b> T
+
+<b>Activity:</b> 
+
+<b>Goals:</b>
+
+
+### <u>5. </u>
+
+<b>Setting:</b> 
+
+<b>Players:</b> 
+
+<b>Activity:</b> 
+
+<b>Goals:</b> 
+
+
+### <u>6. Wake-up-for-sure Bed: No more lazy mornings!</u>
+
+<b>Setting:</b> Its 7AM, a bright sunny monday morning and the user is sleeping on the bed.
+
+<b>Players:</b> The user, and the wake-up-for-sure bed. 
+
+<b>Activity:</b> Its a lazy monday morning and the user refuses to wake up. But the wake-up-for-sure bed starts vibrating and shaking with an annoying alarm that makes it impossible for the user to sleep. The user is forced to wake up and start a productive day ahead.
+
+<b>Goals:</b> To make the user wake up on time and start a productive day ahead.
+
+### <u>7. SoundGlow: Hear with Your Eyes: Illuminate Your World!</u>
+
+<b>Setting:</b> A hearing impaired user holding is SoundGlow device in a concert/ and later a library.
+
+<b>Players:</b> The user, the soundGlow device, and the environment. 
+
+<b>Activity:</b> The user walks around with his/her SoundGlow device in a concert and it starts to glow in different colors while following the rythm of the music. It allows the user to see and feel music as colors. Later the user walks into a library and the device starts to glow in a dim grayish color to indicate that the environment is quiet.
+
+<b>Goals:</b> To allow a hearing impaired user to visualise sounds through colors.
+
+
+
