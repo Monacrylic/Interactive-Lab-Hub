@@ -191,6 +191,9 @@ If there are lots of plants around, we need a better way to analyzd multiple pla
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
+## Part A. Plan 
+
+\*\***Describe your setting, players, activity and goals here.**\*\*
 ### <u>1. CrispSense (enhanced): AR powered food freshness label</u>
 ![storyboard1](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/ccd96ea4-3072-46de-b702-6744299f171c)
 
@@ -271,5 +274,32 @@ If there are lots of plants around, we need a better way to analyzd multiple pla
 
 <b>Goals:</b> To allow a hearing impaired user to visualise sounds through colors.
 
+## Part B. Act out the Interaction
+
+Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+
+\*\***Are there things that seemed better on paper than acted out?**\*\*
+
+When we did the crispsense enhance version, the acting just makes more sense since while acting we are thinking about informations relevant to the items we are holding. This gives us a better clue on what the final product is going to look and feel like. 
+We acted out an immersive wake up experience which helped us to measure the effectiveness of the device. 
 
 
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+For ideas on assistive technology on visual or hearing impaired people, we learned that extra sensory input such as vibration, sound or light (respective to each disability) are important to compensate for the loss of hearing or vision. 
+
+For CrispSense enhanced version, we learned that large and obvious text are needed in an Augmented Reality experience, And any visual element needs to appear at the convenient location, hinting the object-text relationship. 
+
+
+## Part F. Record
+
+\*\***Take a video of your prototyped interaction.**\*\*
+
+[![CrispSense (enhanced) Demo](https://img.youtube.com/vi/PEbXGXp2Gho/0.jpg)](https://www.youtube.com/watch?v=PEbXGXp2Gho)
+
+https://youtu.be/PEbXGXp2Gho
+
+[![Wake up for sure bed](https://img.youtube.com/vi/09Eour2aSHk/0.jpg)](https://www.youtube.com/watch?v=09Eour2aSHk
+)
+
+https://youtu.be/09Eour2aSHk
