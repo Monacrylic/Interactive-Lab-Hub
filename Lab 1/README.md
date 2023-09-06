@@ -303,7 +303,7 @@ We prototyped the CrispSense interaction a software tool called reality composer
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-We wanted the device to look 'small' and 'self-contained'. We wouldn't want a garden to have too many visible digital elements shadwing the greenery. While the size of the phone is restricting, the two white covers make the device look capuslar. 
+We wanted the CrispSense device to visually neat, and show all the text in clear legible text. We also wanted the text to move along with the object, so the user would be able to categorize food on the go.
 
 
 ## Part F. Record
