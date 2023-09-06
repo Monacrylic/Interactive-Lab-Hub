@@ -218,8 +218,9 @@ You will be assigned three partners from another group. Go to their github pages
 
 <b>Goals:</b> The goal of this interaction is to make the user aware of its surrounding dangers in an intuitive, easy to understand way. While providing clear guidance to safety.
 
-### <u>4. </u>
-![storyboard4](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/ed286dc4-b7a6-47c1-98f0-4d131070d543)
+### <u>4. Cat language translator </u>
+![storyboard4](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/10e17db5-6992-42d5-ada4-55b1738dfed3)
+
 
 <b>Setting:</b>The interaction is happening in a person’s home. 
 
@@ -230,7 +231,7 @@ You will be assigned three partners from another group. Go to their github pages
 <b>Goals:</b>The goal is to better communicate the cat’s needs to its owner. If it needs food or the bathroom, this translator will let the owner know.
 
 
-### <u>5. </u>
+### <u>5. Turtle-detector</u>
 ![storyboard5](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/6d26f371-8178-47e8-aa26-bce1c4073593)
 
 <b>Setting:</b>The interaction is happening in the shallow sea near the beach. 
