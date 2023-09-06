@@ -104,7 +104,7 @@ Present your ideas to the other people in your breakout room (or in small groups
 
 \*\***Summarize feedback you got here.**\*\*
 
-1. Thomas Wallace Clear interaction, better colour to alert the person for over watering.
+1. Thomas Wallace: Clear interaction, better colour to alert the person for over watering.
 If there are lots of plants around, we need a better way to analyzd multiple plants, like through an app.
 
 ## Part B. Act out the Interaction
@@ -180,6 +180,12 @@ This describes the second week's work for this lab activity.
 You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+1. Thomas: Clear interaction, better colour to alert the person for over watering.
+If there are lots of plants around, we need a better way to analyzd multiple plants, like through an app.
+
+2. Julia lin: I like the idea of a fridge food indicator. It is useful to know whether the food is expired or not. Also, the plant status indicator is cool, and the video is awesome. A little advice is maybe this device can try to add more than 3 statuses.
+
+3. Neelraj: Really unique idea with a cool usage of the phone as the "sensor" I think that the costuming could have been a bit better. I think that the usage of light is very clear, but could be a little more creative.
 
 ## Make it your own
 
