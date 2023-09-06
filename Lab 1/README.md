@@ -219,6 +219,7 @@ You will be assigned three partners from another group. Go to their github pages
 <b>Goals:</b> The goal of this interaction is to make the user aware of its surrounding dangers in an intuitive, easy to understand way. While providing clear guidance to safety.
 
 ### <u>4. </u>
+![storyboard4](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/ed286dc4-b7a6-47c1-98f0-4d131070d543)
 
 <b>Setting:</b> The 
 
@@ -230,6 +231,7 @@ You will be assigned three partners from another group. Go to their github pages
 
 
 ### <u>5. </u>
+![storyboard5](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/6d26f371-8178-47e8-aa26-bce1c4073593)
 
 <b>Setting:</b> 
 
@@ -241,6 +243,7 @@ You will be assigned three partners from another group. Go to their github pages
 
 
 ### <u>6. Wake-up-for-sure Bed: No more lazy mornings!</u>
+<img width="1451" alt="storyboard6" src="https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/23e4cf75-f1f1-4316-829e-83f262ee07bb">
 
 <b>Setting:</b> Its 7AM, a bright sunny monday morning and the user is sleeping on the bed.
 
@@ -251,6 +254,7 @@ You will be assigned three partners from another group. Go to their github pages
 <b>Goals:</b> To make the user wake up on time and start a productive day ahead.
 
 ### <u>7. SoundGlow: Hear with Your Eyes: Illuminate Your World!</u>
+![storyboard7](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/23abe9cb-bd8c-404a-b120-f509f190b6c4)
 
 <b>Setting:</b> A hearing impaired user holding is SoundGlow device in a concert/ and later a library.
 
