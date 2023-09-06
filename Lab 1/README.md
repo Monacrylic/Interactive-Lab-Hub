@@ -221,25 +221,25 @@ You will be assigned three partners from another group. Go to their github pages
 ### <u>4. </u>
 ![storyboard4](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/ed286dc4-b7a6-47c1-98f0-4d131070d543)
 
-<b>Setting:</b> The 
+<b>Setting:</b>The interaction is happening in a person’s home. 
 
-<b>Players:</b> T
+<b>Players:</b>The cat and the homeowner
 
-<b>Activity:</b> 
+<b>Activity:</b>The purpose of this activity is to allow the homeowner to better understand what their cat is saying. In an ideal world, both cats and humans would be speaking the same language, however in this reality there is a very obvious communication gap and we need such a translator gadget to understand our pets. When the cat speaks, this wearable device picks up the audio and then runs a translator, which then flashes the english (or another human language) translation on the screen, as well as playing the audio version of the thing that the cat said.
 
-<b>Goals:</b>
+<b>Goals:</b>The goal is to better communicate the cat’s needs to its owner. If it needs food or the bathroom, this translator will let the owner know.
 
 
 ### <u>5. </u>
 ![storyboard5](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/6d26f371-8178-47e8-aa26-bce1c4073593)
 
-<b>Setting:</b> 
+<b>Setting:</b>The interaction is happening in the shallow sea near the beach. 
 
-<b>Players:</b> 
+<b>Players:</b>The endangered turtles, ships that are trying to dock on the harbor on the beach, the people on the beach.
 
-<b>Activity:</b> 
+<b>Activity:</b>There are certain species of turtles that are endangered and as such, governments around the world have invested in measures to ensure that no human activity can endanger the turtles during nesting season. In the sea near the beach there exists a buoy tied to a giant underwater motion sensor chain that silently waits to detect the arrival of the turtles. By default the buoy has a giant LED flag that is colored green and a speaker system that is silent, to indicate to everyone near the beach that the coast is clear to resume all human activity (ships coming into harbor, people on the beach). As soon as these endangered turtles pass the barrier, the buoy sensor turns the LED flag light to red and blares a warning sound out into the entire lagoon to indicate that the turtles have arrived. That way no ships or humans will interfere with the turtles while they lay their eggs. As soon as the turtles turn back, the light turns back to green again.
 
-<b>Goals:</b> 
+<b>Goals:</b> The goal is to make it safer for the turtles to lay their eggs and produce more offspring since their population is endangered.
 
 
 ### <u>6. Wake-up-for-sure Bed: No more lazy mornings!</u>
