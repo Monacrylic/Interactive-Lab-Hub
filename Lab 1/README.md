@@ -186,6 +186,7 @@ You will be assigned three partners from another group. Go to their github pages
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 ### <u>1. CrispSense (enhanced): AR powered food freshness label</u>
+![storyboard1](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/ccd96ea4-3072-46de-b702-6744299f171c)
 
 <b>Setting:</b> The user opens a refrigerator in a kitchen to see what ingredients they have for cooking their next meal.
 
@@ -196,6 +197,7 @@ You will be assigned three partners from another group. Go to their github pages
 <b>Goals:</b> To easily tell apart good food from those about to expire for optimum usage of food resources.
 
 ### <u>2. Fortune Teller Robot</u>
+![storyboard2](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/277fdcdb-548d-403a-b086-b187c198b2bf)
 
 <b>Setting:</b> Even though fortune-tellings are not real, people still seek them as either a way to comfort themselves or self-entertainment. The setting for this interaction will be when someone is seeking “inspiration” from a fortune-telling bot. 
 
@@ -206,6 +208,7 @@ You will be assigned three partners from another group. Go to their github pages
 <b>Goals:</b> To easily tell apart good food from those about to expire for optimum usage of food resources.
 
 ### <u>3. PanicParrot: The emergency escape guide</u>
+<img width="1526" alt="storyboard3" src="https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/3315683c-c709-49b8-aa84-68c4b9bf7491">
 
 <b>Setting:</b> The interaction happens during an (fire) emergency. The user is trapped and is trying to escape.
 
