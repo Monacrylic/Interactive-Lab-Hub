@@ -193,6 +193,8 @@ Does time have to be linear?  How do you measure a year? [In daylights? In midni
 Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
+![ClockOfPi_Image](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/89a885c5-476f-42fb-a113-0e15f2d4c33b)
+![ClockOfPiPrototype](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/a891c6a2-a840-4d3a-8d31-17caebc9ec58)
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
@@ -214,6 +216,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+[![PiClock](https://img.youtube.com/vi/jjo1J07_128/0.jpg)](https://www.youtube.com/watch?v=jjo1J07_128)
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
