@@ -224,6 +224,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![futureImprovements](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/1b2df807-7553-4cb0-a5db-030c426bc781)
 
 
 # Prep for Part 2
