@@ -1,7 +1,9 @@
 # Interactive Prototyping: The Clock of Pi
 **NAMES OF COLLABORATORS HERE**
 
+
 Siddharth Kothari - sk2793
+
 
 Does it feel like time is moving strangely during this semester?
 
