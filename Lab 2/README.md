@@ -244,4 +244,9 @@ As always, make sure you document contributions and ideas from others explicitly
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
+## The 'Now' Clock - Part 2
+
+The circles around 'Now' indicate the number of daylight hours left. Users can now stretch the circles of time through a joystick and colors for circles can be changed (randomized) by pressing the joystick button.
+
+[![PiClock](https://img.youtube.com/vi/afB8Evb75q8/0.jpg)](https://www.youtube.com/watch?v=afB8Evb75q8)
 
