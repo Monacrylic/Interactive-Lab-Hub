@@ -246,7 +246,10 @@ You are permitted (but not required) to work in groups and share a turn in; you 
 
 ## The 'Now' Clock - Part 2
 
+![noow2](https://github.com/Monacrylic/Interactive-Lab-Hub/assets/44057927/dfbc57e6-7758-4dc7-bbdb-7fca23175547)
+
 The circles around 'Now' indicate the number of daylight hours left. Users can now stretch the circles of time through a joystick and colors for circles can be changed (randomized) by pressing the joystick button.
+
 
 [![PiClock](https://img.youtube.com/vi/afB8Evb75q8/0.jpg)](https://www.youtube.com/watch?v=afB8Evb75q8)
 
