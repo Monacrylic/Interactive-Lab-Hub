@@ -234,6 +234,18 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
+# Feedback
+
+1. Yifan
+- Great interaction design to the circles, and the joystick control is innovative and looks very satisfying. 
+- The colors to the circles is a great add-on, and the animation is fluid. 
+- Can do something with the text as well
+
+2. Neel
+- Gamification is an interesting idea, but the interaction is not very intuitive.
+- Unique idea, like the idea of using circles to represent hours left in the day.
+
+
 # Lab 2 Part 2
 
 Pull Interactive Lab Hub updates to your repo.
