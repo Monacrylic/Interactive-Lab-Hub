@@ -1,5 +1,11 @@
 # Chatterboxes
 **NAMES OF COLLABORATORS HERE**
+1. Siddharth Kothari - sk2793
+2. Yifan Zhou - yz2889
+3. Tahmid Kazi - tk596
+4. Omar Mohamed - om84
+
+
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -134,6 +140,7 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
