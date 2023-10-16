@@ -4,7 +4,7 @@ import sys
 import sounddevice as sd
 import json
 import subprocess
-
+import urllib
 from vosk import Model, KaldiRecognizer
 
 q = queue.Queue()
