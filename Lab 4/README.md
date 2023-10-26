@@ -156,6 +156,7 @@ You can go to the [Adafruit Learn Page](https://learn.adafruit.com/adafruit-i2c-
 
 #### Joystick (optional)
 
+
 A [joystick](https://www.sparkfun.com/products/15168) can be used to sense and report the input of the stick for it pivoting angle or direction. It also comes with a button input!
 
 <p float="left">
@@ -267,6 +268,7 @@ since we needed the screen to be close to the speaker and raspberry pi, in order
 
 Build a cardboard prototype of your design.
 ![img1](img1.jpg)
+
 
 **\*\*\*Document your rough prototype.\*\*\***
 ![img2](img2.JPG)
