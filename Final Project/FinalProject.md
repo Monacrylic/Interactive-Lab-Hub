@@ -120,7 +120,7 @@ The widgets implementation can be found here: (other dependent UI calssed sudh c
 ## Gesture Tracking 
 We used opencv and Mediapipe for hand tracking and enable full gesture control of the game interface. The gesture are designed to be intuitive and resembles the magic spell casting gestures (we referenced from Dr.Strange Movie). 
 
-[Click here to view the Tracking class (./handtracking.py)](gestureWandhandtracking.py) 
+[Click here to view the Tracking class (./handtracking.py)](gestureWand/handtracking.py) 
 
 At the beginning of the game, we designed an animation to guide the user of their starting gesture:
 
