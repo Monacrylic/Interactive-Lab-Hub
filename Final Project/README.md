@@ -88,7 +88,7 @@ We custom designed a list of MQTT topics and rules in order to support the distr
 
 And here is the full list of MQTT topics:
 
-![MQTT topics](readme_img/MQTT_topics.png)
+![MQTT topics](readme_img/MQTT_Topics.png)
 
 
 
