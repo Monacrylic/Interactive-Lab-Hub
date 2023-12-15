@@ -10,7 +10,7 @@ The hardware closely follows everything that the gameUI requires. The hardware f
 ## Table of Contents
 - [Installation](#installation)
 - [Design Implementation](#design-implementation)
-- [Features](#features)
+- [Design Process](#design-process)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -49,6 +49,7 @@ Below are a few snippets of the different spells we prototyped in Godot.
 ![Alt text](images/pulseAttack.gif)
 
 3. Shield
+
 ![Alt text](images/shield.gif)
 
 4. Defending an attack
@@ -70,7 +71,7 @@ List the main features and functionalities of your game. Highlight any unique or
 ## Contributors
 - Siddharth Kothari (sk2793)
 - Yifan Zhou (yz2889)
-- Omar Mokhtar (om)
+- Omar Mokhtar (om84)
 
 ## License
 Published under MIT license. Go ahead and build your own version of it!
